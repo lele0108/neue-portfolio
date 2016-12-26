@@ -1,8 +1,33 @@
-h1 {
-  font-family: "ff-meta-serif-web-pro";
+@media (max-width: 767px) {
+	.header {
+		margin-top:50px !important;
+	}
+
+	.header h1 {
+		font-size:50px !important;
+	}
+
+	.work {
+		margin-top:25px !important;
+	}
+
+	.work h3 {
+		font-size:25px !important;
+		text-align:center;
+		margin-bottom:40px;
+	}
+
+	.contact h1 {
+		margin-bottom:15px !important;
+	}
+
+	.contact h3 {
+		font-size:25px !important;
+		text-align:center;
+		margin-bottom:15px;
+	}
 }
 
- 
 .header {
 	margin-top:150px;
 }
@@ -93,6 +118,10 @@ h1 {
 
 #btn {
 	border: 0px;
+}
+
+#logo {
+	margin-top:8px;
 }
 
 .contact {
