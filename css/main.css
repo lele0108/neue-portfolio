@@ -60,6 +60,7 @@
 
 .header a:hover {
 	text-decoration: none;
+	cursor:pointer;
 	border-bottom:4px solid #2B00FF;
 }
 
@@ -109,6 +110,7 @@
 
 .work a:hover {
 	text-decoration: none;
+	cursor:pointer;
 	border-bottom:4px solid #2B00FF;
 }
 
@@ -164,5 +166,6 @@
 
 .contact a:hover {
 	text-decoration: none;
+	cursor:pointer;
 	border-bottom:4px solid #2B00FF;
 }
